@@ -18,6 +18,7 @@
 }
 /* //button */
 .tabs {
+  margin-right: 1px;
   border-style: none;
   border-right: solid 1px rgb(72, 72, 72);
   background-color: rgb(44, 44, 44);
